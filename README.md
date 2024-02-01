@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Alexandre
 
-- 🔭 Hoje trabalho como Assistente Administrativo e programador Back-end
+- 🔭 Hoje trabalho como Assistente Administrativo e Programador Back-end
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
 
