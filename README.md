@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Alexandre
 
 - 🔭 Hoje trabalho como Assistente Administrativo e Programador Back-end
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript e Java
 - 😄 Pronouns: ele/dele
 
 ![Alexandre Gutierrez stats](https://github-readme-stats.vercel.app/api?username=AlexandreGutierrez&show_icons=true&theme=radical)
