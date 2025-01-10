@@ -1,12 +1,13 @@
 ## Olá! Eu sou o Alexandre
 
 - 🔭 Hoje trabalho como Assistente Administrativo e Programador Back-end
-- 🌱 Estudando JavaScript e Java
+- 🌱 Estudando Java e JavaScript
 - 😄 Pronouns: ele/dele
 
 ![Alexandre Gutierrez stats](https://github-readme-stats.vercel.app/api?username=AlexandreGutierrez&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
